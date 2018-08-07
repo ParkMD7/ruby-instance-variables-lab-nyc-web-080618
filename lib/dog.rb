@@ -15,3 +15,4 @@ lassie.name = "Lassie"
  
 end
 
+lassie.name
